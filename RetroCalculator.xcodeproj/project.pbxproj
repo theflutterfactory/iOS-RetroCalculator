@@ -13,6 +13,7 @@
 		8856F90F1DA9EB0C0045A490 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8856F90E1DA9EB0C0045A490 /* Assets.xcassets */; };
 		8856F9121DA9EB0C0045A490 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8856F9101DA9EB0C0045A490 /* LaunchScreen.storyboard */; };
 		888A2C831DAB730700F10841 /* Code 7x5.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 888A2C821DAB730600F10841 /* Code 7x5.ttf */; };
+		888A2C851DAB775200F10841 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 888A2C841DAB775100F10841 /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8856F9111DA9EB0C0045A490 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8856F9131DA9EB0C0045A490 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		888A2C821DAB730600F10841 /* Code 7x5.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Code 7x5.ttf"; path = "../Code 7x5.ttf"; sourceTree = "<group>"; };
+		888A2C841DAB775100F10841 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		8856F9061DA9EB0C0045A490 /* RetroCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				888A2C841DAB775100F10841 /* btn.wav */,
 				888A2C821DAB730600F10841 /* Code 7x5.ttf */,
 				8856F9071DA9EB0C0045A490 /* AppDelegate.swift */,
 				8856F9091DA9EB0C0045A490 /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				888A2C851DAB775200F10841 /* btn.wav in Resources */,
 				8856F9121DA9EB0C0045A490 /* LaunchScreen.storyboard in Resources */,
 				8856F90F1DA9EB0C0045A490 /* Assets.xcassets in Resources */,
 				8856F90D1DA9EB0C0045A490 /* Main.storyboard in Resources */,
